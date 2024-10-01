@@ -43,3 +43,6 @@ Just a few things that caught my attention
 |https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static|Programming|Tree structured concurrency|
 |https://blog.yoshuawuyts.com/tree-structured-concurrency|Programming|Tree structured concurrency|
 |https://simongiebenhain.github.io/NPGA/|Avatars| Gaussian avatars|
+|https://3dtopia.github.io/3DTopia-XL/|3D Generation|Image, multi view and text-conditioned generation|
+|https://research.nvidia.com/labs/par/maskedmimic/|Character Animation|Unified Physics-Based Character Control Through Masked Motion Inpainting|
+|https://kovenyu.com/wonderworld/|3D Generation|3D scene from a single image|
