@@ -42,3 +42,4 @@ Just a few things that caught my attention
 |https://docs.pyth.network/price-feeds/use-real-time-data/solana|Blockchain|Price oracle|
 |https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static|Programming|Tree structured concurrency|
 |https://blog.yoshuawuyts.com/tree-structured-concurrency|Programming|Tree structured concurrency|
+|https://simongiebenhain.github.io/NPGA/|Avatars| Gaussian avatars|
