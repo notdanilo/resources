@@ -1,10 +1,10 @@
 # resources
 Just a few things that caught my attention
 
-| Resource | Class | Description |
-|-|-|-|
+| Resource | Class | Description | Published At |
+|-|-|-|-|
 |https://www.youtube.com/watch?v=5AUypv5BNbI|Visual Analysis|Optical flow explanation|
-|https://github.com/autonomousvision/unimatch|Visual Analysis|"Unified model for stereo| depth and optical flow"|
+|https://github.com/autonomousvision/unimatch|Visual Analysis|"Unified model for stereo depth and optical flow"|
 |https://www.youtube.com/playlist?list=PL2zRqk16wsdoYzrWStffqBAoUY8XdvatV|Visual Analysis|Optical flow course|
 |https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting|Text Generation|Prompt engineering|
 |https://lilianweng.github.io/posts/2023-06-23-agent/|Text Generation|LLM Agents|
@@ -46,3 +46,4 @@ Just a few things that caught my attention
 |https://3dtopia.github.io/3DTopia-XL/|3D Generation|Image, multi view and text-conditioned generation|
 |https://research.nvidia.com/labs/par/maskedmimic/|Character Animation|Unified Physics-Based Character Control Through Masked Motion Inpainting|
 |https://kovenyu.com/wonderworld/|3D Generation|3D scene from a single image|
+|https://github.com/Junyi42/monst3r|3D Geometry Estimation|A Simple Approach for Estimating Geometry in the Presence of Motion|10/2024|
