@@ -47,3 +47,5 @@ Just a few things that caught my attention
 |https://research.nvidia.com/labs/par/maskedmimic/|Character Animation|Unified Physics-Based Character Control Through Masked Motion Inpainting|
 |https://kovenyu.com/wonderworld/|3D Generation|3D scene from a single image|
 |https://github.com/Junyi42/monst3r|3D Geometry Estimation|A Simple Approach for Estimating Geometry in the Presence of Motion|10/2024|
+|https://yi-shi94.github.io/amdm_page/|Animation|Interactive Character Control with Auto-Regressive Motion Diffusion Models|10/2024|
+|https://xbpeng.github.io/projects/AMDM/index.html|Animation|Interactive Character Control with Auto-Regressive Motion Diffusion Models|10/2024|
