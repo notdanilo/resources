@@ -50,3 +50,4 @@ Just a few things that caught my attention
 |https://yi-shi94.github.io/amdm_page/|Animation|Interactive Character Control with Auto-Regressive Motion Diffusion Models|10/2024|
 |https://xbpeng.github.io/projects/AMDM/index.html|Animation|Interactive Character Control with Auto-Regressive Motion Diffusion Models|10/2024|
 |https://www.youtube.com/watch?v=PCL9SAlHqzw|Image Editor|Omnigen, AI image editor|
+|https://github.com/AIFSH/OmniGen-ComfyUI|Image Editor|OmniGen|
